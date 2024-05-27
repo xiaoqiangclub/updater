@@ -1,9 +1,11 @@
 from setuptools import setup, find_packages
 
+
 # 从 requirements.txt 文件读取依赖
 def read_requirements():
     with open('requirements.txt', 'r', encoding='utf-8') as f:
         return f.read().splitlines()
+
 
 setup(
     name='updater',

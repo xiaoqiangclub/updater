@@ -1,7 +1,3 @@
-好的，以下是优化和完善后的 README 文件，使其适用于 GitHub 和发布到 PyPI。这个文档提供了详细的使用说明、配置文件示例以及打包和测试的指南。
-
----
-
 <p align="center"><a href="https://github.com/xiaoqiangclub/updater"><img width="200" src="img/app_logo.png" alt="Project logo"></a></p>
 
 <p align="center">

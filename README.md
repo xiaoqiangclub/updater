@@ -1,11 +1,7 @@
 <p align="center"><a href="https://github.com/xiaoqiangclub/updater"><img width="200" src="img/app_logo.png" alt="Project logo"></a></p>
 
 <p align="center">
-  <a href="https://github.com/xiaoqiangclub/updater/releases"><img src="https://img.shields.io/github/release/xiaoqiangclub/updater" alt="Release version"></a>
-  <a href="https://github.com/xiaoqiangclub/updater/actions/workflows/release.yml"><img src="https://github.com/xiaoqiangclub/updater/workflows/Build/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/xiaoqiangclub/updater/actions/workflows/beta-pack.yml"><img src="https://github.com/xiaoqiangclub/updater/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
   <a href="https://www.python.org/downloads/release/python-3115/"><img src="https://img.shields.io/badge/Python-3.11.5-blue" alt="Python version"></a>
-  <a href="https://github.com/xiaoqiangclub/updater/tree/dev"><img src="https://img.shields.io/github/package-json/v/xiaoqiangclub/updater/dev" alt="Dev branch version"></a>
   <a href="https://github.com/xiaoqiangclub/updater/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xiaoqiangclub/updater" alt="License"></a>
 </p>
 

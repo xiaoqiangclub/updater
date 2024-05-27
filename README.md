@@ -34,8 +34,9 @@ pip install updater
 
 使用更新程序 `updater.py` 时，可以指定以下参数：
 
-- `--config <配置文件路径>`：配置文件路径（默认为 `updater_config.json`）。
+- `--config <配置文件路径>`：配置文件路径（默认为 `updater_config.json`，如果没有指定具体的配置文件路径，程序将自动在当前目录下遍历查找一个名叫 `updater_config.json` 的配置文件。）
 - `--help`：显示此帮助信息并退出。
+
 
 ### 配置文件说明
 

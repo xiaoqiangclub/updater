@@ -1,0 +1,20 @@
+include README.md
+include LICENSE
+include setup.py
+include MANIFEST.in
+
+# 包含图标和其他静态资源
+recursive-include img *
+
+# 包含所有的 Python 代码文件
+recursive-include updater *.py
+
+# 包含测试文件
+recursive-include tests *.py
+
+# 排除不需要的文件
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *~
+global-exclude *.bak
+global-exclude .DS_Store

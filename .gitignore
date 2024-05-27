@@ -158,3 +158,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/Pipfile.lock
+/Pipfile
+/.idea/.gitignore
+/.idea/sonarlint/issuestore/0/e/0ed050968a3a050cf7f8d7720d64a6e85bf81ce9
+/.idea/sonarlint/securityhotspotstore/0/e/0ed050968a3a050cf7f8d7720d64a6e85bf81ce9
+/.idea/sonarlint/issuestore/8/e/8e2edce0d507e1297474f25c00cae94258db38d8
+/.idea/sonarlint/securityhotspotstore/8/e/8e2edce0d507e1297474f25c00cae94258db38d8
+/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+/.idea/sonarlint/issuestore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
+/.idea/sonarlint/securityhotspotstore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
+/.idea/sonarlint/issuestore/8/8/8875df48c18030126ef5ef5a6f5c93b23451fb9f
+/.idea/sonarlint/securityhotspotstore/8/8/8875df48c18030126ef5ef5a6f5c93b23451fb9f
+/.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768
+/.idea/sonarlint/securityhotspotstore/1/9/19359a61ae2446b51b549167b014da2fcf265768
+/.idea/sonarlint/issuestore/d/b/dbc0658d37278875ab594ae1ed2482f8742e49cd
+/.idea/sonarlint/securityhotspotstore/d/b/dbc0658d37278875ab594ae1ed2482f8742e49cd
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
